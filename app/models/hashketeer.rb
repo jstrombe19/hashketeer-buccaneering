@@ -1,0 +1,2 @@
+class Hashketeer < ApplicationRecord
+end
